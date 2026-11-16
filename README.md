@@ -1,4 +1,4 @@
-# SHIPRA TUTEJA - technical-writing-portfolio
+# SHIPRA TUTEJA - Technical-Writing-Portfolio
 Welcome to my technical writing portfolio. 
 I am a former software developer moving into technical writing, with focus on writing clear and structured documentation. 
 
@@ -9,3 +9,8 @@ I am a former software developer moving into technical writing, with focus on wr
 | **JSONPlaceholder REST API Reference** | API Documentation |  [View Sample](Api-Docs.md) |
 | **2FA for GitHub User Guide** | Step-by-Step User Guide | [View Sample](github-2fa-user-guide.md) |
 | **Troubleshooting Common Git Push Errors** | Troubleshooting Guide | [View Sample](Troubleshooting.md) |
+
+## Skills & Tools
+* **Documentation:** API Reference, User Guides, Troubleshooting Guides, SOPs,Release Notes, READMEs
+* **Formatting & Markup:** Markdown
+* **Developer & Version Control Tools:** Git, GitHub, Postman, REST APIs
