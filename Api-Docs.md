@@ -9,7 +9,7 @@ This guide covers two API endpoints - GET and POST from free source JSONPlacehol
 
 ## EndPoints
 
-1.GET Method (Fetches all posts)
+1.**GET Method** (Fetches all posts)
 ### URL
 `GET /posts`
 
@@ -36,7 +36,7 @@ This guide covers two API endpoints - GET and POST from free source JSONPlacehol
 | `title` | String | The title of the blog post. |
 | `body` | String | The main text content of the blog post. |
 
-2.POST Method (Create new post) 
+2.**POST** Method (Create new post) 
 `POST /posts`
 
 ### Sample Request
@@ -48,7 +48,7 @@ curl -X POST https://typicode.com \
 
 ### Request Body Parameters
 | Field | Type | Description |
-| :--- | :--- | :--- | :--- |
+| :--- | :--- | :--- |
 | `title` | String | The title of the blog post. |
 | `body` | String | The main text content of the blog post. |
 | `userId` | Integer | Shows which user created post. |
@@ -62,3 +62,10 @@ curl -X POST https://typicode.com \
   "userId": 1
 }
 ```
+### Sample Response Fields
+| Field | Type | Description |
+| :--- | :--- | :--- |
+| `userId` | Integer | Shows which user created post. |
+| `id` | Integer | shows the unique id of the post. |
+| `title` | String | The title of the blog post. |
+| `body` | String | The main text content of the blog post. |
