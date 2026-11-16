@@ -1,5 +1,8 @@
 # JSONPlaceholder API Reference 
 
+## Context Box
+> **Audience:** Everyday End-Users | **Doc Type:** Step-by-Step API Guide | **Tools:** Markdown
+
 ## Overview 
 This guide covers two API endpoints - GET and POST from free source JSONPlaceholder.com
 
