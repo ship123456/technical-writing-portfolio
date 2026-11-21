@@ -13,9 +13,6 @@ This guide covers two API endpoints - GET and POST from free source JSONPlacehol
 ### URL
 `GET /posts`
 
-### Sample Request
-`curl -X GET https://typicode.com`
-
 #### Sample Response (`200 OK`)
 ```json
 [
