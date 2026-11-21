@@ -10,10 +10,11 @@ This guide covers two API endpoints - GET and POST from free source JSONPlacehol
 ## EndPoints
 
 1.**GET Method** (Fetches all posts)
+
 ### URL
 `GET /posts`
 
-#### Sample Response (`200 OK`)
+### Sample Response (`200 OK`)
 ```json
 [
   {
