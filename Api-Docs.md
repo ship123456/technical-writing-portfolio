@@ -35,14 +35,9 @@ This guide covers two API endpoints - GET and POST from free source JSONPlacehol
 | `body` | String | The main text content of the blog post. |
 
 2.**POST** Method (Create new post) 
-`POST /posts`
 
-### Sample Request
-```bash
-curl -X POST https://typicode.com \
-  -H "Content-Type: application/json" \
-  -d '{"title": "My First Post", "body": "Hello world!", "userId": 1}'
-```
+### URL
+`POST /posts`
 
 ### Request Body Parameters
 | Field | Type | Description |
